@@ -5,7 +5,6 @@ For my analysis of Citibike, I looked at the 2022 data provided on their website
 
 Here is the link to my profile and assignment:
 
-https://public.tableau.com/views/CitiBike_17258079203720/DeterminingPopularityofRidersforCitibike?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+https://public.tableau.com/views/CitiBike_17258079203720/StoryofCitiBike?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 When pushing to Github, I ran into an issue and and couldn't upload resoruce files
